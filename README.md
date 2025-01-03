@@ -1,19 +1,10 @@
-# Docusaurus 2
+# Data Steward Carpentry@SvetElisky
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
+Data steward carpentry docs website. It server two main purposes.
 
-## Deploy Your Own
+1) To have a place for hosting my tutorials/writtings meant for the czech data steward community.
+2) To learn more about documentation platforms, to try things out and have a playground of sorts.
 
-Deploy your own Docusaurus project with Vercel.
+Project by Eli Blažková. Views are my own.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
-
-_Live Example: https://docusaurus-2-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-npx create-docusaurus@latest my-website classic
-```
+Generated via [Docusaurus](https://docusaurus.io). Hosted on [Vercel](https://docusaurus.io). 

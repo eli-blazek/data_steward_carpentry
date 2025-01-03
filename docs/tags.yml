@@ -1,0 +1,9 @@
+basics:
+  label: 'The Basics'
+  permalink: '/basics'
+  description: 'Basics of software development.'
+
+DSW/FW:
+  label: 'DS Wizard/FAIR Wizard'
+  permalink: '/basics'
+  description: 'Tutorials related to Data Stewardship Wizard/FAIR WIzard tools'
